@@ -38,7 +38,6 @@ When I'm not staring at a code editor, you can probably find me tinkering with m
 ## 📊 My GitHub Vitals
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssururi&show_icons=true&theme=radial&hide_border=true&include_all_commits=true" alt="Shofyan's GitHub Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssururi&theme=radial&hide_border=true&include_all_commits=true" alt="Shofyan's Streak" height="180"/>
 </p>
 
