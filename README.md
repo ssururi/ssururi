@@ -1,6 +1,6 @@
-# Hi, I'm Sopii! 👋
+# Hi, I'm Sopii ! 👋
 
-### 👨‍💻 Full-time Code Juggler | 
+### 👨‍💻 Full-time Code Juggler 
 
 Welcome to my digital corner! I’m a software engineer who loves turning complex, messy problems into clean, elegant code. By day, I drink coffee, code, and design system architectures; by night, I break things, fix them, and experiment with new tech.
 
